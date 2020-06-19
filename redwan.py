@@ -79,8 +79,8 @@ os.system("clear")
 print "\x1b[0;31m⚔════════════════════════☠════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;31mASSALAMUALAIKUM\x1b[0;31m  \033[1;96m   
 \033[1;96m[¤] \x1b[0;31mGithub : redwan777\x1b[1;96m  
-\033[1;93m[¤] \x1b[0;31mFACEBOOK : محمد رضوان أحمد\x1b[1;96m  
-\033[1;93m[¤] \x1b[0;31mCreator  : MOHAMMAD REDWAN AHMED \x1b[0;31m"""
+\033[1;93m[¤] \x1b[0;31mFACEBOOK : MOHAMMAD REDWAN AHMED\x1b[1;96m  
+\033[1;93m[¤] \x1b[0;31mCreator  : REDWAN AHMED \x1b[0;31m"""
 print " \x1b[1;93m⚔═══════════════════════☠════════════════════════⚔"
 
 CorrectUsername = "redwan"
